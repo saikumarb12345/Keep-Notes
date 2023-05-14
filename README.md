@@ -4,6 +4,8 @@ Keep Notes is a simple note-taking app that I have created. The web application 
 The web application is designed to be simple and easy to use. It allows users to create, edit, and delete notes. 
 
 The app is still under development, but it is a great way to learn the basics of JavaScript.
+
+
 **Features**
 - The following features are included in this app:
   - Create, edit, and delete notes
